@@ -1,0 +1,7 @@
+.primeira-barra{
+    box-sizing: border-box;
+    height: 60px;
+    border-radius: 10px;
+    
+    background-color: #363536;
+}
