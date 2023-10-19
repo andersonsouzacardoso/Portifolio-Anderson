@@ -1,0 +1,23 @@
+div.menu{
+    display: flex;
+    background-color: #ffffff;
+}
+
+nav.menu{
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+nav:hover.menu a{
+    padding: 10px;
+    background-color: #cac6c6;
+    border-radius: 10px;
+}
+
+a.menu{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    background-color: #ffffff;
+}

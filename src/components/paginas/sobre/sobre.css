@@ -1,0 +1,24 @@
+div.conteudo{
+    background-color: #cac6c6;
+    color: black;
+    margin-top: 0px;
+    padding: 10px;
+    min-height: 740px;
+    border-radius: 10px; 
+    
+}
+h1.conteudo{
+    font-size: 38px;
+   
+}
+
+div.texto{
+    font-size: 26px;
+    color: black;
+}
+
+div.logos img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;    
+}
