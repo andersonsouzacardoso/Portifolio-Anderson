@@ -21,7 +21,7 @@ export default function Sobre(){
                       <p>Sou proficiente no uso de sistemas de controle de versão, como Git, para colaboração eficaz em equipe.</p>
                       <h3>Educação e Certificações:</h3>
                       <p>Certificado em Desenvolvimento Web (Escola estadual Protasio Alves)</p>
-                      <p>Certificado em Desenvolvimento Web (Descomplica com Instituto Nu.)</p>
+                      <p>Certificado em Desenvolvimento Web (Instituto Nu by Descomplica.)</p>
                       <p>Estou sempre buscando aprender e me manter atualizado com as últimas tendências e tecnologias de desenvolvimento front-end. 
                         Se você está em busca de um desenvolvedor que combine habilidades técnicas sólidas com uma paixão pelo design e usabilidade,
                          estou pronto para colaborar em projetos emocionantes.
