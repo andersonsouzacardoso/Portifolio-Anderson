@@ -18,7 +18,7 @@ div.texto a{
     padding: 10px;
 }
 div.texto p{
-    padding: 10px;
+    padding: 3px;
 }
 div:hover.texto a{
     color: green;

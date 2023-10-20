@@ -5,7 +5,38 @@ export default function Sobre(){
             <h1 className="conteudo">SOBRE</h1>
             
             <div className="texto">
-                <p>Olá meu nome é Anderson, sou desenvolvedor front-end, minhas especialidades são Javascript, React.js, Html 5, Css e Git</p>
+                <h3>Descrição Profissional: Desenvolvedor Front-End.</h3>
+                <p>Sou um desenvolvedor front-end apaixonado por criar experiências digitais envolventes e responsivas.
+                    Com uma formação sólida em design de interface de usuário e uma experiência de trabalho diversificada,
+                     estou comprometido em transformar conceitos criativos em códigos funcionais e visualmente impressionantes.
+                      Aqui estão algumas das principais habilidades e conquistas:</p>
+                      <h3>Habilidades Técnicas:</h3>
+                      <h4>Javascrip & React.js</h4>
+                      <p> Sou habilidoso na programação JavaScript, criando interações dinâmicas e funcionais para sites, além de trabalhar com a biblioteca React.js</p>
+                      <h4>HTML5 & CSS3</h4>
+                      <p> Domino como linguagens fundamentais para construir estruturas e estilos sólidos, garantindo uma base sólida para todos os projetos.</p>
+                      <h4>Design Responsivo</h4>
+                      <p>Garanto que meus projetos sejam perfeitamente decorados em qualquer dispositivo, graças ao desenvolvimento responsivo e à adaptação mobile-first.</p>
+                      <h4>Controle de Versão</h4>
+                      <p>Sou proficiente no uso de sistemas de controle de versão, como Git, para colaboração eficaz em equipe.</p>
+                      <h3>Educação e Certificações:</h3>
+                      <p>Certificado em Desenvolvimento Web (Escola estadual Protasio Alves)</p>
+                      <p>Certificado em Desenvolvimento Web (Descomplica com Instituto Nu.)</p>
+                      <p>Estou sempre buscando aprender e me manter atualizado com as últimas tendências e tecnologias de desenvolvimento front-end. 
+                        Se você está em busca de um desenvolvedor que combine habilidades técnicas sólidas com uma paixão pelo design e usabilidade,
+                         estou pronto para colaborar em projetos emocionantes.
+
+                        Sinta-se à vontade para explorar meu portfólio e entre em contato para discutir como posso contribuir para o sucesso de seus projetos.
+
+                         -se de personalizar essa descrição detalhada de acordo com suas próprias realizações e experiências para refletir sua identidade como desenvolvedor front-end. 
+                         Isso ajudará a transmitir suas habilidades e conquistas de forma específica aos potenciais interessados ​​ou clientes.
+
+
+
+
+
+</p>
+
 
             <div className="logos">
                 <img className="logos" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="logo javascript" />
