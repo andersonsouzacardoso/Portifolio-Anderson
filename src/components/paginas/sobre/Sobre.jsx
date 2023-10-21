@@ -20,22 +20,15 @@ export default function Sobre(){
                       <h4>Controle de Versão</h4>
                       <p>Sou proficiente no uso de sistemas de controle de versão, como Git, para colaboração eficaz em equipe.</p>
                       <h3>Educação e Certificações:</h3>
-                      <p>Certificado em Desenvolvimento Web (Escola estadual Protasio Alves)</p>
-                      <p>Certificado em Desenvolvimento Web (Instituto Nu by Descomplica.)</p>
+                      <p>Certificado em Desenvolvimento Web (Escola estadual Protasio Alves)</p><a href="https://drive.google.com/drive/folders/1Fjxsh9YpbOR8Cdb4ibJ2u_5WBDXF2XaX"target="_blank">Clique aqui!</a>
+                      <p>Certificado em Desenvolvimento Web (Instituto Nu by Descomplica.)</p><a href="https://drive.google.com/drive/folders/1cPnvjzEkq2fznstQPVqFuz9Elma9z_Ol"target="_blank">Clique aqui!</a>
                       <p>Estou sempre buscando aprender e me manter atualizado com as últimas tendências e tecnologias de desenvolvimento front-end. 
                         Se você está em busca de um desenvolvedor que combine habilidades técnicas sólidas com uma paixão pelo design e usabilidade,
                          estou pronto para colaborar em projetos emocionantes.
 
                         Sinta-se à vontade para explorar meu portfólio e entre em contato para discutir como posso contribuir para o sucesso de seus projetos.
 
-                         -se de personalizar essa descrição detalhada de acordo com suas próprias realizações e experiências para refletir sua identidade como desenvolvedor front-end. 
-                         Isso ajudará a transmitir suas habilidades e conquistas de forma específica aos potenciais interessados ​​ou clientes.
-
-
-
-
-
-</p>
+                    </p>
 
 
             <div className="logos">
