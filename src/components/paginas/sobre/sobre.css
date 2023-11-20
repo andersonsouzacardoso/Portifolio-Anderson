@@ -9,7 +9,7 @@ div.conteudo{
 }
 h1.conteudo{
     font-size: 38px;
-   
+   color: #0489B1;
 }
 
 div.texto{
@@ -21,6 +21,18 @@ div.texto{
 div.logos img{
     width: 60px;
     height: 60px;
-    padding: 100px;
-    
+    padding: 10px;
+    transition: 0.5s;   
+}
+div.logos img:hover{
+    transform: scale(1.3);
+}
+@media screen and (max-width: 400px){
+    div.texto h3{
+        font-size: 25px;
+        
+    }
+    div.texto p{
+        font-size: 24px;
+    }
 }

@@ -1,13 +1,16 @@
 import "./banner.css"
-import programador from"../paginas/contatos/icone/programador.png"
+
 export default function Banner(){
     return(
         <div className="apresentacao">
-            <center className="apresentacao">Anderson Souza Front-End</center>
+            <div class="card">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" />
+  <div class="card__content">
+    <p class="card__title">ANDERSON SOUZA</p>
+    <p class="card__description">Sou um desenvolvedor front-end trabalho com Javascript e React.js.</p>
+  </div>
+</div>
 
-                <div className="apresentacao">
-                    <img className="apresentacao" src={programador} alt="icone de topo" />
-                </div>
         </div>
     )
 }

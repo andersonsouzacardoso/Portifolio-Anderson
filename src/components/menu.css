@@ -21,3 +21,8 @@ a.menu{
     font-weight: bold;
     background-color: #ffffff;
 }
+@media screen and (max-width: 400px){
+    a.menu{
+        font-size: 14px;
+    }
+}
