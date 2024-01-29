@@ -27,6 +27,16 @@ div.texto{
     height: 750px;
     align-items: center;
     margin-left: 10px;
+    border: solid 5px black;
+    border-radius: 20px;
+}
+.galaxy{
+    width: 250px;
+    height: 500px;
+}
+.Tv{
+    width: 280px;
+    height: 260px;
 }
 .projeto2{
     display: flex;
@@ -34,9 +44,31 @@ div.texto{
     width: 300px;
     height: 750px;
     align-items: center;
-    
+    border: solid 5px black;
+    border-radius: 20px;
 }
 .link{
+    background-color: blueviolet;
+    width: 100px;
+    height: 25px;
     font-size: 18px;
-    color: blueviolet;
+    text-decoration: none;
+    color: white;
+    border: 3px solid white;
+    text-align: center;
+    border-radius: 20px;
+}
+.link:hover{
+    background-color: gray;
+}
+.description{
+    text-align: center;
+    font-size: 13pt;
+}
+hr{
+    height: 5px;
+}
+.manual{
+    text-align: left;
+    
 }
