@@ -20,6 +20,4 @@ div.texto a{
 div.texto p{
     padding: 3px;
 }
-div:hover.texto a{
-    color: gray;
-}
+

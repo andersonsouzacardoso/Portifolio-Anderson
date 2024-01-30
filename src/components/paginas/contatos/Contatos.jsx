@@ -7,8 +7,8 @@ export default function Contatos(){
         <div className="conteudo">
             <h1 className="conteudo">CONTATOS</h1>
             <div className="texto">
-                <img src={github} alt="logo do github" /> <a href="https://github.com/andersonsouzacardoso" target="_blank">Meu Github</a><br />
-                <br /><br /><img src={linkedin} alt="logo do linkedin" /><a href="https://www.linkedin.com/in/anderson-souza-169461264/" target="_blank">Meu LinkedIn</a><br />
+                <img src={github} alt="logo do github" /> <a className="link" href="https://github.com/andersonsouzacardoso" target="_blank">Meu Github</a><br />
+                <br /><br /><img src={linkedin} alt="logo do linkedin" /><a className="link" href="https://www.linkedin.com/in/anderson-souza-169461264/" target="_blank">Meu LinkedIn</a><br />
             
            <br /> <br /><img src={whatsapp} alt="logo do whats" />(51) 98050-9482
             </div>

@@ -33,10 +33,12 @@ div.texto{
 .galaxy{
     width: 250px;
     height: 500px;
+    margin-top: 2px;
 }
 .Tv{
     width: 280px;
     height: 260px;
+    margin-top: 2px;
 }
 .projeto2{
     display: flex;
@@ -57,6 +59,7 @@ div.texto{
     border: 3px solid white;
     text-align: center;
     border-radius: 20px;
+    cursor: pointer;
 }
 .link:hover{
     background-color: gray;
@@ -70,5 +73,54 @@ hr{
 }
 .manual{
     text-align: left;
-    
+}
+@media (width <= 1200px){
+    .projetos{
+        gap: 100px;
+    }
+}
+@media (width <= 768px){
+    .projetos{
+        gap: 50px;
+    }
+}
+@media (width <= 576px){
+    .projeto1, .projeto2{
+        width: 250px;
+        height: 510px;
+        border: none;
+        align-items: center;
+    }
+}
+@media (width <= 576px){
+    .description, .manual, hr, h5{
+        display: none;
+    }
+}
+@media (width <= 576px){
+    .projetos{
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+}
+@media (width <= 576px){
+    a.link{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-top: 10px;
+    }
+}
+@media (width <= 576px){
+    .Tv{
+        margin-left: 35px;
+    }
+}
+@media (width <= 576px){
+    .projeto2{
+        width: 250px;
+        height: 300px;
+        border: none;
+        align-items: center;
+    }
 }
