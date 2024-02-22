@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portifolio-Anderson/static/css/main.f30fab71.css",
+    "main.js": "/Portifolio-Anderson/static/js/main.33a0c502.js",
+    "static/media/tv1984.png": "/Portifolio-Anderson/static/media/tv1984.cf081fa6edba5f9bfd4d.png",
+    "static/media/galaxy-s5.png": "/Portifolio-Anderson/static/media/galaxy-s5.5e0fceebf6ae79ff904e.png",
+    "index.html": "/Portifolio-Anderson/index.html",
+    "main.f30fab71.css.map": "/Portifolio-Anderson/static/css/main.f30fab71.css.map",
+    "main.33a0c502.js.map": "/Portifolio-Anderson/static/js/main.33a0c502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30fab71.css",
+    "static/js/main.33a0c502.js"
+  ]
+}
